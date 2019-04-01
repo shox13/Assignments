@@ -9,6 +9,8 @@
 - select google_colab/Assignment1-Heatmap.ipynb from dropdown menu
 - run the first cell, which starts with '!pip install -U -q PyDrive' 
 - follow the steps for authentication
-- confirm that summary statistics are printed as output (observations, 
-  mean, std. dev., etc.)
+- run the following cell that contains "df.describe()" to confirm that summary 
+  statistics are printed as output (observations, mean, std. dev., etc.). This 
+  confirms that we successfully loaded the troublesome train.csv file from 
+  Google Drive.
 
